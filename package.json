@@ -1,9 +1,13 @@
 {
   "name": "asyncstorage-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test compliance with the AsyncStorage API",
   "main": "index.js",
   "author": "Andre Staltz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staltz/asyncstorage-test.git"
+  },
   "engines": {
     "node" : ">=6"
   },
